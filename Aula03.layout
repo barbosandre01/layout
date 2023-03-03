@@ -64,3 +64,31 @@ void main(){
      ));
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+
+void main() {
+  
+  var nome = "A";
+  
+  if ( nome == "André"){
+    print('valor da variável correto!');
+  }else{
+    print('valor da variável incorreto');
+  }
+    
+  }
